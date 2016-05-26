@@ -1,0 +1,7 @@
+{
+  "name": "Try Socket.io",
+  "dependencies": {
+    "redis": "^2.3.0",
+    "socket.io": "^1.3.7"
+  }
+}

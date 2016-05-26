@@ -1,0 +1,9 @@
+{
+  "name": "Try React",
+  "dependencies": {
+    "babel-preset-react": "^6.1.18",
+    "babelify": "^7.2.0",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  }
+}
